@@ -5,7 +5,7 @@
 This project analyzes the Pre-Crisis vs Crisis business performance of QuickBite Express, identifying operational challenges, customer behavior changes, and restaurant-level performance issues.
 It aims to provide data-driven insights and recommendations to support crisis recovery and decision-making.
 
-# Project Overview
+## Project Overview
 
 QuickBite Express faced a major decline in revenue, order volume, and customer satisfaction during a crisis.
 Using Power BI, I built an end-to-end analytical solution to uncover:
@@ -16,7 +16,7 @@ City-wise and restaurant-wise performance
 Delivery delays and SLA compliance issues
 Behavior of top 5% high-value customers
 
-# Key Features
+## Key Features
 
 ✔ Clean star-schema data model built from multiple fact & dimension tables
 ✔ 20+ custom DAX measures for KPIs and trend analysis
@@ -27,7 +27,7 @@ Behavior of top 5% high-value customers
 ✔ Customer churn, retention & loyalty segmentation
 ✔ Fully interactive Power BI dashboard
 
-# Data Model
+## Data Model
 
 The model includes:
 Fact Tables
@@ -39,7 +39,7 @@ dim_restaurant
 dim_address
 dim_calendar
 
-# KPIs (Business Metrics)
+## KPIs (Business Metrics)
 
 Total Orders (Pre-Crisis / Crisis)
 Revenue (Pre-Crisis / Crisis)
@@ -53,7 +53,7 @@ Loyal Customers (orders ≥ 5)
 High-Value Customers (top 5% by spend)
 Restaurant Ranking & Decline %
 
-# Tools & Technologies
+## Tools & Technologies
 
 Power BI Desktop
 Power Query
@@ -61,21 +61,41 @@ DAX
 Excel / CSV
 Star Schema Modeling
 
-# Analysis Performed
+## Analysis Performed
+📌 1.Crisis Impact
+Revenue
+Total Orders
+SLA Compliance %
+Active Customers
 
-# Customer Behavior
+📌 2. Customer Behavior
+High-value customer decline
+Loyal vs churned customers
+City-wise and cuisine preference trends
+
+📌 3. Order Pattern
+Total Orders 
+Cancellation %
+Order % Decline
+
+📌 4. Delivery Operations
+SLA compliance tracking
+Peak delay contributors
+Impact of delivery delays on ratings
+
+## Customer Behavior
 
 High-value customer decline
 Loyal vs churned customers
 City-wise and cuisine preference trends
 
-# Delivery Operations
+## Delivery Operations
 
 SLA compliance tracking
 Peak delay contributors
 Impact of delivery delays on ratings
 
-# Challenges Faced
+## Challenges Faced
 
 Handling multiple fact tables with complex relationships
 Aligning time intelligence with crisis segmentation
@@ -84,3 +104,7 @@ Cleaning inconsistent timestamps and address data
 Performance optimization for smooth dashboards
 
 # Dashboard Preview
+<h1 ref="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Crisis.jpg">QuickBite Express</h1>
+<h1 ref="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Customer.jpg">Customer Segments</h1> 
+<h1 ref="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Orders.jpg">Order Pattern</h1>
+<h1 ref="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Delivery.jpg">Delivery Performance</h1>
