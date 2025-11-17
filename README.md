@@ -104,7 +104,7 @@ Cleaning inconsistent timestamps and address data
 Performance optimization for smooth dashboards
 
 # Dashboard Preview
-<h1 ref="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Crisis.jpg">QuickBite Express</h1>
-<h1 ref="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Customer.jpg">Customer Segments</h1> 
-<h1 ref="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Orders.jpg">Order Pattern</h1>
-<h1 ref="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Delivery.jpg">Delivery Performance</h1>
+<a href="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Crisis.jpg">QuickBite Express</a>
+<a href="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Customer.jpg">Customer Segments</a> 
+<a href="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Orders.jpg">Order Pattern</a>
+<a href="https://github.com/Indu-Kavida/Codebasics-Resume-Project-Challenge-/blob/main/QuickBite_Delivery.jpg">Delivery Performance</a>
